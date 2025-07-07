@@ -138,7 +138,7 @@
                 switch(title) {
                     case 'Instagram':
                         message = 'Follow us on Instagram for updates and behind-the-scenes content!';
-                         window.open('https://instagram.com/techgenz_pacific', '_blank');
+                         window.open('https://instagram.com/techgenz.pacific', '_blank');
                         break;
                     case 'Gmail':
                         message = 'Contact us at: techgenz@pacificinstitute.edu';
@@ -150,7 +150,7 @@
                         break;
                     case 'WhatsApp':
                         message = 'Join our WhatsApp community for instant updates!';
-                        window.open('https://chat.whatsapp.com/techgenz-community', '_blank');
+                        window.open('https://chat.whatsapp.com/Lk2Gz7foHH9Ko12wTfIctA?mode=ac_c', '_blank');
                         break;
                 }
                 
